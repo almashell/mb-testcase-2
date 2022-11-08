@@ -1,0 +1,21 @@
+mode: set
+mb_api/internal/pkg/prodncats/delivery/http.go:15.39,19.2 1 0
+mb_api/internal/pkg/prodncats/delivery/http.go:21.103,23.65 2 1
+mb_api/internal/pkg/prodncats/delivery/http.go:28.2,28.45 1 1
+mb_api/internal/pkg/prodncats/delivery/http.go:23.65,26.3 2 1
+mb_api/internal/pkg/prodncats/delivery/http.go:31.106,33.69 2 1
+mb_api/internal/pkg/prodncats/delivery/http.go:38.2,38.47 1 1
+mb_api/internal/pkg/prodncats/delivery/http.go:33.69,36.3 2 1
+mb_api/internal/pkg/prodncats/delivery/http.go:41.101,43.59 2 1
+mb_api/internal/pkg/prodncats/delivery/http.go:48.2,48.42 1 1
+mb_api/internal/pkg/prodncats/delivery/http.go:43.59,46.3 2 1
+mb_api/internal/pkg/prodncats/usecase/prodncats.go:17.37,21.2 1 0
+mb_api/internal/pkg/prodncats/usecase/prodncats.go:23.95,25.16 2 1
+mb_api/internal/pkg/prodncats/usecase/prodncats.go:28.2,28.27 1 1
+mb_api/internal/pkg/prodncats/usecase/prodncats.go:25.16,27.3 1 0
+mb_api/internal/pkg/prodncats/usecase/prodncats.go:31.101,33.16 2 1
+mb_api/internal/pkg/prodncats/usecase/prodncats.go:36.2,36.27 1 1
+mb_api/internal/pkg/prodncats/usecase/prodncats.go:33.16,35.3 1 0
+mb_api/internal/pkg/prodncats/usecase/prodncats.go:39.86,41.16 2 1
+mb_api/internal/pkg/prodncats/usecase/prodncats.go:44.2,44.27 1 1
+mb_api/internal/pkg/prodncats/usecase/prodncats.go:41.16,43.3 1 0
